@@ -6,7 +6,7 @@ The simple shop cashier inventory application is an application tailored to the 
    
 ![Pamflet Aplikasi Kasir](https://github.com/nelanishafatia/inventaris-kasir/assets/154462252/176fd40b-6640-49c6-bedd-be104301d426)
 
-Nama Anggota Kelompok: 
+Nama Anggota Kelompok 9 PTI A 2022: 
 1. Nelani Shafatia Zulatifa (NIM 22050974003)
 2. Sherly Mahessa Syaharany (NIM 22050974024)
 3. Firda Nur Laily (NIM 22050974027)
